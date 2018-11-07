@@ -2,9 +2,9 @@
     font-family: 'BMJUA';
     font-weight: normal;
     font-style: normal;
-    src: url('https://github.com/TAKGi/test/0.1/master/BMJUA_ttf.eot');
-    src: url('https://github.com/TAKGi/test/0.1/master/BMJUA_ttf.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/TAKGi/test/0.1/master/BMJUA.woff') format('woff'),
-         url('https://github.com/TAKGi/test/0.1/master/BMJUA.ttf') format('truetype'),
-         url('https://github.com/TAKGi/test/0.1/master/BMJUA.svg#BMJUA') format('svg');
+    src: url('https://github.com/TAKGi/test/raw/master/BMJUA_ttf.eot');
+    src: url('https://github.com/TAKGi/test/raw/master/BMJUA_ttf.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/TAKGi/test/raw/master/BMJUA.woff') format('woff'),
+         url('https://github.com/TAKGi/test/raw/master/BMJUA.ttf') format('truetype'),
+         url('https://github.com/TAKGi/test/raw/master/BMJUA.svg#BMJUA') format('svg');
 }
